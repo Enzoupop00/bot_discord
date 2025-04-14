@@ -14,4 +14,4 @@ async def on_ready():
 async def ping(ctx):
     await ctx.send("Pong!")
 
-bot.run("MTM1MDg5ODI1ODA4Nzc3NjMzOA.GGZfBx.TXBxjmzjP80VBWRvqgvdjS9wJJv-2wi6BKb-ak")
+bot.run("MTM1MDg5ODI1ODA4Nzc3NjMzOA.GHf6Ga.8_u8JoA7fzqts7K2U6YqXGfpKvC0P4b_v3EcyA")
